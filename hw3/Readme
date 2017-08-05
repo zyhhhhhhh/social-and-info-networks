@@ -1,0 +1,7 @@
+Girvan-Newman.py is the Girvan-Newman method. GN_approximate.py is the one using approximate betweenness. I used networkx to get the total edge number and node number. I asked on piazza and seems that is fine.
+
+There are 3 input files starting from line9. Also a sample.txt, which is poorly created, because All the partitions are of size 1 except for a giant component that contains the rest.
+
+Uncomment the testfile to use. Output will be printed on the console. Time is recorded for both, and it will also show on the console.
+
+I have attached result in Output1, Output2 and Output3 both docx and pdf.
